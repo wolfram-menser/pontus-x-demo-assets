@@ -1,0 +1,9 @@
+component,material,mass_kg,pcf_kgco2e_per_kg,component_pcf_kgco2e,lifecycle_phase,data_source
+Cube Enclosure,Galvanized Steel,42.0,2.45,102.9,A1-A3,supplier_epd
+Hydraulic Module,Copper + Brass,11.5,3.90,44.9,A1-A3,supplier_epd
+Buffer Storage Tank,Stainless Steel,28.3,5.10,144.3,A1-A3,supplier_epd
+Compressor,Mixed Metals + Electronics,9.7,6.80,66.0,A1-A3,primary_data
+Heat Exchanger,Aluminium,6.4,8.20,52.5,A1-A3,supplier_epd
+Control Unit,PCB + Polymer Housing,2.1,12.40,26.0,A1-A3,secondary_db
+Refrigerant Charge,R290 (Propane),0.9,3.30,3.0,A1-A3,primary_data
+Insulation,EPS Foam,3.6,3.05,11.0,A1-A3,secondary_db

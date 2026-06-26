@@ -1,0 +1,9 @@
+asset_id,component,vibration_mm_s,bearing_temp_c,acoustic_db,oil_particle_ppm,health_index,predicted_rul_days
+P-101,Centrifugal Pump,1.8,52.4,71.2,18,0.94,412
+P-102,Centrifugal Pump,4.7,68.9,82.6,46,0.61,73
+P-103,Centrifugal Pump,2.3,55.1,73.8,22,0.89,318
+G-201,Gearbox,3.1,61.7,79.4,61,0.72,151
+G-202,Gearbox,6.9,77.3,88.1,118,0.38,21
+M-301,Spindle Motor,1.2,48.0,66.5,9,0.97,540
+M-302,Spindle Motor,3.6,63.2,80.9,34,0.68,109
+C-401,Compressor,5.4,71.6,85.3,72,0.52,48
